@@ -1,4 +1,4 @@
-# AutomaticDrinkMaker
+# Automatic Drink Mixer
 Ever wanted a Shirley temple but too lazy to pour it? Have a machine do it!
 
 
