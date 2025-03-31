@@ -7,9 +7,10 @@ This automatic drink maker uses an Arduino Mega as the central controller. The M
 
 The user places a cup in the machine, and then selects drink combinations and custom ratios from four options via the membrane keypad. After finalizing selections, the user presses the red button to start dispensing, with the LCD displaying a "Pouring" status. The system automatically controls each pump based on flowmeter feedback to achieve the desired ratios, ensuring a well-mixed drink. The code for this project was developed in the Arduino IDE. 
 
-## Some Photos
+## Some Photos and Video!
 ![IMG_3263](https://github.com/user-attachments/assets/935f5c0e-4af8-4cb6-96b9-109a591cbdf5)!
 ![IMG_3262](https://github.com/user-attachments/assets/95cac1dc-1288-4bbd-9d9b-fc620b447e36)
+![IMG_1998-ezgif com-optimize](https://github.com/user-attachments/assets/23e1c27f-96a2-4b7f-9908-8d93551f1ac4)
 
 
 ## Youtube Video of Drink Maker 
